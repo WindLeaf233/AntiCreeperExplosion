@@ -1,0 +1,7 @@
+name: AntiCreeperExplosion
+version: '${version}'
+main: ml.windleaf.anticreeperexplosion.core.AntiCreeperExplosion
+api-version: 1.18
+authors: [ WindLeaf_qwq ]
+description: A paper/spigot plugin that prevents creeper explodes.
+website: https://github.com/WindLeaf233/AntiCreeperExplosion
