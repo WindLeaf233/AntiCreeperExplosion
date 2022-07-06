@@ -1,5 +1,6 @@
 package ml.windleaf.anticreeperexplosion.core;
 
+import ml.windleaf.api.logging.PluginLogger;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public final class AntiCreeperExplosion extends JavaPlugin {
